@@ -30,7 +30,7 @@ It’s built entirely in **C**, with no external libraries beyond the standard C
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Language:** C (ANSI C)
 * **Libraries Used:**
@@ -129,7 +129,7 @@ Enter text to encrypt: hello
 
 ---
 
-## 🧾 Future Enhancements (Phase 4 Ideas)
+##  Future Enhancements (Phase 4 Ideas)
 
 *  Password hashing (store encrypted passwords)
 *  GUI interface (WinAPI / GTK / ncurses)
