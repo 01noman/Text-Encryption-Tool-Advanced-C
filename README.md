@@ -104,7 +104,7 @@ Choose Encryption Method:
 Enter method: 1
 Enter key (0 = auto-generate): 0
 Enter text to encrypt: hello
- Encrypted Text: khoor
+Encrypted Text: khoor
 ```
 
 ---
@@ -113,7 +113,7 @@ Enter text to encrypt: hello
 
 | File Name                  | Purpose                                   |
 | -------------------------- | ----------------------------------------- |
-| `encryption_tool_v3.c`     | Main program source code                  |
+| `encryption_tool.c`     | Main program source code                  |
 | `users.txt`                | Stores registered usernames and passwords |
 | `history.txt`              | Stores encryption/decryption logs         |
 | `input.txt` / `output.txt` | Sample files for encryption/decryption    |
