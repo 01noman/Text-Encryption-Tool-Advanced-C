@@ -53,7 +53,7 @@ cd Text-Encryption-Tool-Advanced-C
 Using GCC:
 
 ```bash
-gcc encryption_tool_v3.c -o encryption_tool
+gcc encryption_tool.c -o encryption_tool
 ```
 
 ### 3. Run
