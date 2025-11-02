@@ -68,7 +68,7 @@ gcc encryption_tool.c -o encryption_tool
 
 ```
 =====================================
-   TEXT ENCRYPTION TOOL v3 (SECURE)
+   TEXT ENCRYPTION TOOL (SECURE)
 =====================================
 
 1. Login
